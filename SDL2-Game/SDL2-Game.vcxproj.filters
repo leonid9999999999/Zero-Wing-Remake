@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{7ac8037b-c4ba-40e3-9183-372575247669}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="MyHero.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="BadGuy.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="BadGuySpawner.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="MyBullet.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="MyBulletManager.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="HitChecker.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="PointCounter.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="WaveChanger.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenDrawer.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadStuff.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="BigBadGuy.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScreen.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="BadBullet.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="BadBulletManager.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="DeathScreen.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceRock.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="RockController.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScreen.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="MyHero.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="BadGuy.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="BadGuySpawner.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBullet.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBulletManager.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="HitChecker.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="PointCounter.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="WaveChanger.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenDrawer.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadStuff.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="BigBadGuy.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="BadBullet.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="BadBulletManager.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DeathScreen.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceRock.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="RockController.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
